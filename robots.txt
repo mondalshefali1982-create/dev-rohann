@@ -1,5 +1,0 @@
-# Robots.txt for Rohan Mondal Portfolio
-User-agent: *
-Allow: /
-
-Sitemap: https://elevatexdigitalsolutions.framer.website/sitemap.xml
